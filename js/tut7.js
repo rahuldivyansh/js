@@ -10,7 +10,9 @@ console.log('Hello from tut7.js')
 // arr[3] = 'whu'
 
 // //push - pop, unshift - shift
-// arr1.splice(1,4)    // Remove 4 elements starting from 1st index
+// arr1.splice(1,1)    // Remove 1 element starting from 1st index. so output arr = [1,3,4,5] 
+// arr1.splice(1,0, 'divyansh') // Inserts divyansh at index 2(one after index 1)
+// arr1.splice(3,1, 'Hello')    // Replaces element at index 3 with 'Hello'
 // console.log(arr1)
 
 // arr.reverse()       // Array gets reversed permanently

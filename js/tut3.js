@@ -9,9 +9,9 @@
 
 // Variable rules
 // 1. cannot start with numbers, 
-// 2. cannot start with letter, _ or $
+// 2. can start with letter, _ or $
 // 3. are case sensitive
-// Generally _ at start is used for private varibles
+// Generally _(underscore) at start is used for private varibles
 // var is the oldest. const  and let are used now
 
 // const value cannot be changed

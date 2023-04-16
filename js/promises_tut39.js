@@ -20,5 +20,5 @@ function func(){
 func().then(function(){
     console.log('Divyansh: Thanks for resolving')
 }).catch(function (error){
-    console.log(`Divyansh: Why did you promise nigga if you can't fullfill `,error)
+    console.log(`Divyansh: Why did you promise if you can't fullfill `,error)
 })

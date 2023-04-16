@@ -17,9 +17,9 @@ console.log("Hello from tut10.js")
 
 // // It is also possible to set a default value to a parameter in function so that when user forgets to pass the parameter, we get the default value. The default value of name in greet function is Hero.
 
-// greet()     // This prints default value of name , i.e. hero
+// greet()     // This prints default value of name , i.e. Hero
 
-// We can also store functions inside variables.Which are known as function expressions.
+// We can also store functions inside variables. Which are known as function expressions.
 
 // let myFunc = function greet(name = 'Hero'){
 //     console.log(`Hello ${name}, how are you ?`)
@@ -28,7 +28,7 @@ console.log("Hello from tut10.js")
 
 // myFunc()
 // greet() -> This doesn't work
-// we don't need to write function name when assigning them to a variable.
+// we don't need to write 'function' when assigning them to a variable.
 
 // we can also create functions in objects.
 // let obj2 = {
